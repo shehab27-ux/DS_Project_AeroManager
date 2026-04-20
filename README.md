@@ -2,7 +2,7 @@
 <br>
 Airport Control System..
 <br>
-PROJECT GROUP MEMBERS:
+GROUP MEMBERS:
 <br>
 ID: 20255103336....
 <br>
